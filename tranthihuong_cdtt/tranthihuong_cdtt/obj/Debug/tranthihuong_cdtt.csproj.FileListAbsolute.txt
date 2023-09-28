@@ -1,0 +1,327 @@
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\tranthihuong_cdtt.dll.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\tranthihuong_cdtt.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\tranthihuong_cdtt.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csc.rsp
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\csi.rsp
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Console.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\vbc.rsp
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ClosedXML.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EPPlus.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\OfficeOpenXml.Extends.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Owin.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\PayPal.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.ComponentModel.Annotations.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Data.SqlClient.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.IO.Packaging.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\TableDependency.SqlClient.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\WebGrease.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ClosedXML.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ClosedXML.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\DocumentFormat.OpenXml.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\EPPlus.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\ExcelNumberFormat.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\PayPal.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Helpers.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Mvc.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Optimization.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.Razor.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Newtonsoft.Json.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\tranthihuong_cdtt.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\tranthihuong_cdtt.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\tranthihuong_cdtt.csproj.CopyComplete
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\tranthihuong_cdtt.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\cosmetics-shop-asp.net-mvc\CosmeticsShop\CosmeticsShop\obj\Debug\tranthihuong_cdtt.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.rsp
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.rsp
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Console.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.rsp
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\OfficeOpenXml.Extends.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Owin.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.ComponentModel.Annotations.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Data.SqlClient.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.IO.Packaging.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\TableDependency.SqlClient.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\WebGrease.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CopyComplete
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.dll
+C:\Users\PC\Documents\Zalo Received Files\cosmetics-shop-asp.net-mvc1\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.pdb
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll.config
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.pdb
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe.config
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.rsp
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe.config
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.rsp
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.AppContext.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Collections.Immutable.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Console.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Compression.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Reflection.Metadata.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.AccessControl.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Claims.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.ValueTuple.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe.config
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.rsp
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe.config
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Web.Infrastructure.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\OfficeOpenXml.Extends.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Owin.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.ComponentModel.Annotations.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Data.SqlClient.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.IO.Packaging.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\TableDependency.SqlClient.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\WebGrease.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.pdb
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.pdb
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CoreCompileInputs.cache
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CopyComplete
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.dll
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.pdb
+C:\tranthihuong_cdtt\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.AssemblyReference.cache

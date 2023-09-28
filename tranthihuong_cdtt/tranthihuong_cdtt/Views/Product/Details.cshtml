@@ -1,0 +1,111 @@
+﻿@model tranthihuong_cdtt.Models.Product
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_ProductLayout.cshtml";
+
+    List<tranthihuong_cdtt.Models.Category> categories = ViewBag.ListCategory as List<tranthihuong_cdtt.Models.Category>;
+}
+<script>
+    $(document).ready(function () {
+        $('.item_add').click(function () {
+            event.preventDefault();
+            var ID = $(this).data("id");
+            $.ajax({
+                url: '/Cart/AddItem',
+                data: {
+                    ProductID: ID
+                },
+                type: 'POST',
+                dataType: 'json',
+                success: function (response) {
+                    if (response.status == true) {
+                        $.notify("Thêm vào giỏ hàng thành công!", "success");
+
+                        $.ajax({
+                            url: '/Cart/GetTotalCart',
+                            type: 'GET',
+                            dataType: 'json',
+                            success: function (response) {
+                                $(".simpleCart_total").html(response.TotalPrice + "₫ (" + response.TotalQuantity + ")")
+                            },
+                        });
+                    } else {
+                        $.notify("Số lượng không đủ!", "error");
+                    }
+                },
+            });
+        })
+    });
+</script>
+<div class="breadcrumbs">
+    <div class="container">
+        <ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
+            <li><a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Trang chủ</a></li>
+            <li class="active">@Model.Name</li>
+        </ol>
+    </div>
+</div>
+<div class="single">
+    <div class="container">
+        <div class="col-md-9">
+            <div class="col-md-5 grid">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li data-thumb="@Url.Content("~/Content/images/" + Model.Image1)">
+                            <div class="thumb-image"> <img src="@Url.Content("~/Content/images/" + Model.Image1)" data-imagezoom="true" class="img-responsive"> </div>
+                        </li>
+                        @if (Model.Image2 != null)
+                        {
+                            <li data-thumb="@Url.Content("~/Content/images/" + Model.Image2)">
+                                <div class="thumb-image"> <img src="@Url.Content("~/Content/images/" + Model.Image2)" data-imagezoom="true" class="img-responsive"> </div>
+                            </li>
+                        }
+                        @if (Model.Image3 != null)
+                        {
+                            <li data-thumb="@Url.Content("~/Content/images/" + Model.Image3)">
+                                <div class="thumb-image"> <img src="@Url.Content("~/Content/images/" + Model.Image3)" data-imagezoom="true" class="img-responsive"> </div>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-7 single-top-in">
+                <div class="single-para simpleCart_shelfItem">
+                    <h2>@Model.Name</h2>
+                    <p> @Model.Description</p>
+                    <div class="star-on">
+                        @*<ul>
+                <li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
+                <li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
+                <li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
+                <li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
+                <li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
+            </ul>
+            <div class="review">
+                <a href="#"> 3 reviews </a>/
+                <a href="#">  Write a review</a>
+            </div>*@
+                        <div class="clearfix"> </div>
+                    </div>
+                    <label class="add-to item_price">@Model.Price.Value.ToString("#,##")₫</label>
+                    <ul class="trust-seal-list" style="margin-top:15px">
+                        <li style="padding: 5px 10px; border: 1px solid #cbcbcb; font-size: 20px; display: flex; align-items: center;">
+                            <div style="width:25px"><svg style="width: 1.125em;height: 1em" class="svg-inline--fa fa-dollar-sign fa-w-9" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="dollar-sign" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 512" data-fa-i2svg=""><path fill="currentColor" d="M209.2 233.4l-108-31.6C88.7 198.2 80 186.5 80 173.5c0-16.3 13.2-29.5 29.5-29.5h66.3c12.2 0 24.2 3.7 34.2 10.5 6.1 4.1 14.3 3.1 19.5-2l34.8-34c7.1-6.9 6.1-18.4-1.8-24.5C238 74.8 207.4 64.1 176 64V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48h-2.5C45.8 64-5.4 118.7.5 183.6c4.2 46.1 39.4 83.6 83.8 96.6l102.5 30c12.5 3.7 21.2 15.3 21.2 28.3 0 16.3-13.2 29.5-29.5 29.5h-66.3C100 368 88 364.3 78 357.5c-6.1-4.1-14.3-3.1-19.5 2l-34.8 34c-7.1 6.9-6.1 18.4 1.8 24.5 24.5 19.2 55.1 29.9 86.5 30v48c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-48.2c46.6-.9 90.3-28.6 105.7-72.7 21.5-61.6-14.6-124.8-72.5-141.7z"></path></svg><!-- <i class="fa fa-dollar-sign"></i> Font Awesome fontawesome.com --></div>
+                            <p style="padding: 0 10px; font-size: 14px; margin: 0; font-style:italic">Hàng chính hãng, chứng nhận an toàn</p>
+                        </li>
+                        <li style="padding: 5px 10px; border: 1px solid #cbcbcb; font-size: 20px; display: flex; align-items: center; border-top: 0">
+                            <div style="width:25px"><svg style="width: 1.125em; height: 1em " class="svg-inline--fa fa-shopping-cart fa-w-18" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="shopping-cart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M528.12 301.319l47.273-208C578.806 78.301 567.391 64 551.99 64H159.208l-9.166-44.81C147.758 8.021 137.93 0 126.529 0H24C10.745 0 0 10.745 0 24v16c0 13.255 10.745 24 24 24h69.883l70.248 343.435C147.325 417.1 136 435.222 136 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-15.674-6.447-29.835-16.824-40h209.647C430.447 426.165 424 440.326 424 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-22.172-12.888-41.332-31.579-50.405l5.517-24.276c3.413-15.018-8.002-29.319-23.403-29.319H218.117l-6.545-32h293.145c11.206 0 20.92-7.754 23.403-18.681z"></path></svg><!-- <i class="fa fa-shopping-cart"></i> Font Awesome fontawesome.com --></div>
+                            <p style="padding: 0 10px; font-size: 14px; margin: 0; font-style: italic">Miễn phí giao hàng toàn quốc <b></b></p>
+                        </li>
+                        <li style="padding: 5px 10px; border: 1px solid #cbcbcb; font-size: 20px; display: flex; align-items: center; border-top: 0">
+                            <div style="width:25px"><svg style="width: 1.125em; height: 1em" class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fa fa-phone"></i> Font Awesome fontawesome.com --></div>
+                            <p style="padding: 0 10px; font-size: 14px; margin: 0;">Liên hệ hỗ trợ: <a href="tel:19001208">0853968952</a></p>
+                        </li>
+                    </ul>
+                    <a href="#" class="cart item_add" data-id="@Model.ID">Chọn mua</a>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>

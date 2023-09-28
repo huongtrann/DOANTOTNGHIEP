@@ -1,0 +1,56 @@
+﻿@model IEnumerable<tranthihuong_cdtt.ViewModels.ProductRevenueVM>
+@{
+    ViewBag.Title = "Thống kê doanh thu theo loại sản phẩm";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int no = 0;
+}
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">@ViewBag.Title</h1>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <!-- /.card-header -->
+            <div class="card-body table-responsive p-0">
+                <table class="table table-hover text-nowrap">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Tên loại</th>
+                            <th>Doanh thu</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (var item in Model)
+                            {
+                                
+                                {
+                                    no++;
+                                }
+                                <tr>
+                                    <td>@no</td>
+                                    <td>@item.ProductName</td>
+                                    <td>@item.Revenue.ToString("#,##")</td>
+                                </tr>
+                            }
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        
+    </div>
+</div>

@@ -1,0 +1,327 @@
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll.config
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.AppContext.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Console.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Claims.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\WebGrease.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CopyComplete
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.ComponentModel.Annotations.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Data.SqlClient.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\TableDependency.SqlClient.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Owin.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\OfficeOpenXml.Extends.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.IO.Packaging.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.AssemblyReference.cache
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll.config
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.pdb
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe.config
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.rsp
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe.config
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.rsp
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.AppContext.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Collections.Immutable.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Console.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Compression.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Reflection.Metadata.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.AccessControl.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Claims.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.ValueTuple.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe.config
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.rsp
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe.config
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Web.Infrastructure.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\OfficeOpenXml.Extends.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Owin.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.ComponentModel.Annotations.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Data.SqlClient.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.IO.Packaging.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\TableDependency.SqlClient.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\WebGrease.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.pdb
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.pdb
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.AssemblyReference.cache
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CoreCompileInputs.cache
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CopyComplete
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.dll
+D:\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.pdb
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.AssemblyReference.cache
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CoreCompileInputs.cache
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.pdb
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll.config
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\tranthihuong_cdtt.pdb
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.exe.config
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csc.rsp
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.exe.config
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\csi.rsp
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.Managed.Core.targets
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.AppContext.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Collections.Immutable.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Console.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Compression.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.IO.Pipes.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Reflection.Metadata.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.AccessControl.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Claims.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Security.Principal.Windows.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.ValueTuple.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XmlDocument.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.exe.config
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\vbc.rsp
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\roslyn\VBCSCompiler.exe.config
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Web.Infrastructure.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\OfficeOpenXml.Extends.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Owin.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.ComponentModel.Annotations.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Data.SqlClient.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.IO.Packaging.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\TableDependency.SqlClient.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\WebGrease.dll
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.pdb
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ClosedXML.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\DocumentFormat.OpenXml.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EntityFramework.SqlServer.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\EPPlus.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\ExcelNumberFormat.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.pdb
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.Owin.Security.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\PayPal.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Helpers.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Mvc.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Optimization.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.Razor.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Deployment.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\System.Web.WebPages.Razor.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Newtonsoft.Json.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Antlr3.Runtime.pdb
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\mvc5\tranthihuong-cdtt-asp.net-mvc11\tranthihuong-cdtt-asp.net-mvc\tranthihuong_cdtt\tranthihuong_cdtt\obj\Debug\tranthihuong_cdtt.csproj.CopyComplete
